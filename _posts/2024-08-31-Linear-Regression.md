@@ -4,6 +4,7 @@ date: 2024-08-31
 categories: ['Prediction', 'Statistical Methods']
 tags: ['Prediction', 'Linear Regression', 'Statistical Methods', 'Regression Modelling']
 author: <dhammocks>
+description: Linear Regression Made Simple!
 ---
 
 # Linear Regression
