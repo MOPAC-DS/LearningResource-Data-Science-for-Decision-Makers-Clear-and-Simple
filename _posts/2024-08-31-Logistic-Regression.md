@@ -10,6 +10,8 @@ image:
   alt: Image Displaying a Simple Logistic Regression
 ---
 
+# Logistic Regression
+
 ## What is Logistic Regression?
 
 Logistic regression is a statistical method used to predict the probability of a binary outcome (i.e., an outcome with two possible values, such as "yes" or "no", "success" or "failure", "crime" or "no crime"). Unlike linear regression, which predicts a continuous outcome, logistic regression is used when the outcome is categorical.
@@ -96,7 +98,6 @@ Logistic regression is limited by:
 
    ![img-description](/assets/images/posts/logistic-regression-cm.png)
     _Confusion Matric Showing the Performance of the Logistic Regression Model_
-
 
 
 ### Limitations
