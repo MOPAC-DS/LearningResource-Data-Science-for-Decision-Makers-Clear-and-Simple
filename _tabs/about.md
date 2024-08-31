@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About
-
 Welcome to **Data Science for Decision Makers: Clear and Simple**!
 
 In today’s data-driven world, understanding the insights provided by data science is crucial for making informed decisions, especially in the realm of public policy and governance. Our blog is dedicated to breaking down complex data science techniques and applications into clear, accessible explanations tailored specifically for policymakers, politicians, stakeholders, and anyone involved in decision-making processes.
@@ -32,7 +30,9 @@ Our mission is to empower decision-makers with the knowledge they need to effect
 We welcome feedback, questions, and suggestions! If you have any inquiries or would like to learn more about specific data science topics, please feel free to reach out to us.
 
 - **Email:** [daniel.hammocks@mopac.london.gov.uk](mailto:daniel.hammocks@mopac.london.gov.uk)
-- **Follow Us:** [Twitter](https://twitter.com/mopacldn) | [GitHub](https://github.com/mopac-ds)
+- **Follow Us:**
+    - [Twitter](https://twitter.com/mopacldn)
+    - [GitHub](https://github.com/mopac-ds)
 
 Thank you for visiting **Data Science for Decision Makers: Clear and Simple**. We hope you find our content valuable and insightful as you navigate the intersection of data and policy. Together, we can harness the power of data science to make informed decisions that positively impact our communities.
 
