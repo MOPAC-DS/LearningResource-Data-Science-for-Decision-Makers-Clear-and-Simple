@@ -1,9 +1,9 @@
 ---
 title: "Linear Regression"
 date: 2024-08-31
-categories: ['Prediction', 'Statistical Methods', 'Regression Modelling']
-tags: ['Prediction', 'Linear Regression', 'Statistical Methods']
-author: 'Daniel Hammocks'
+categories: ['Prediction', 'Statistical Methods']
+tags: ['Prediction', 'Linear Regression', 'Statistical Methods', 'Regression Modelling']
+author: <dhammocks>
 ---
 
 # Linear Regression
