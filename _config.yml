@@ -150,7 +150,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-#baseurl: ""
+baseurl: "/LearningResource-Data-Science-for-Decision-Makers-Clear-and-Simple"
 
 # ------------ The following options are not recommended to be modified ------------------
 
