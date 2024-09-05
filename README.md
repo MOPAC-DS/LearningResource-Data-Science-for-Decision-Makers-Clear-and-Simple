@@ -41,4 +41,4 @@ Email: daniel.hammocks@mopac.london.gov.uk
 
 ## Theme
 
-This resource utilises the Chirpy Theme - [theme repository][chirpy].
+This resource utilises the Chirpy Theme - [theme repository - chirpy](https://github.com/cotes2020/chirpy-starter). 
