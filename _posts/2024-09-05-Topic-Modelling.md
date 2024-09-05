@@ -6,7 +6,7 @@ tags: ['Classification', 'Topic Modelling', 'NLP', 'Unsupervised Learning', 'Doc
 author: <dhammocks>
 description: This post discusses Topic Models in simple terms using accessible language for all.
 image:
-  path: /assets/images/posts/cover-topic-model.png
+  path: /assets/images/posts/cover-topic-modelling.png
   alt: Image Displaying Topic Model Results
 ---
 
