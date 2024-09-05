@@ -1,60 +1,44 @@
-# Chirpy Starter
+# Welcome to Data Science for Decision Makers: Clear and Simple!
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## Accessing the Resource
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+You can access our blog -> [Here](https://mopac-ds.github.io/LearningResource-Data-Science-for-Decision-Makers-Clear-and-Simple/)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## About
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+In today’s data-driven world, understanding the insights provided by data science is crucial for making informed decisions, especially in the realm of public policy and governance. Our blog is dedicated to breaking down complex data science techniques and applications into clear, accessible explanations tailored specifically for policymakers, politicians, stakeholders, and anyone involved in decision-making processes.
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### What We Do
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+At the Mayor’s Office for Policing and Crime, we leverage advanced data science techniques to drive evidence-based decisions that impact public safety, resource allocation, and policy development. However, we understand that these techniques can often seem daunting to those without a technical background.
 
-## Prerequisites
+Our goal is to bridge this gap by providing straightforward explanations of key data science methods and how they apply to real-world policy issues. Whether you’re a policymaker looking to understand predictive analytics, a stakeholder interested in how statistical models influence decisions, or simply someone curious about the role of data science in public administration, you’ll find our content designed with you in mind.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+### What You Can Expect
 
-## Installation
+**Simplified Explanations:** We break down complex data science concepts into easy-to-understand language, using practical examples relevant to public policy.
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+**Real-World Applications:** Learn how data science techniques are applied to solve problems and make decisions in the public sector.
 
-Then clone it to your local machine and run:
+**Visual Aids:** We use diagrams, charts, and visualisations to help illustrate key points and make data science concepts more digestible.
 
-```console
-$ bundle
-```
+**Case Studies:** Explore real-life examples and case studies from our work at the Mayor’s Office for Policing and Crime.
 
-## Usage
+### Our Mission
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+Our mission is to empower decision-makers with the knowledge they need to effectively use data science in their work. By making data science approachable and understandable, we aim to enhance transparency, improve decision-making, and ultimately contribute to better governance and public outcomes.
 
-## Contributing
+### Conclusion
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+Thank you for visiting Data Science for Decision Makers: Clear and Simple. We hope you find our content valuable and insightful as you navigate the intersection of data and policy. Together, we can harness the power of data science to make informed decisions that positively impact our communities.
 
-## License
+## Get In Touch
 
-This work is published under [MIT][mit] License.
+We welcome feedback, questions, and suggestions! If you have any enquiries or would like to learn more about specific data science topics, please feel free to reach out to us.
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+Email: daniel.hammocks@mopac.london.gov.uk
+
+
+## Theme
+
+This resource utilises the Chirpy Theme - [theme repository][chirpy].
