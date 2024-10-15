@@ -28,8 +28,8 @@ Speaker diarisation involves several steps:
 
 The audio recording is cleaned up to enhance clarity. This may include:
 
-     - **Noise Reduction:** Removing background noise to focus on the voices.
-     - **Segmentation:** Dividing the audio into smaller segments based on pauses or changes in the speaker.
+- **Noise Reduction:** Removing background noise to focus on the voices.
+- **Segmentation:** Dividing the audio into smaller segments based on pauses or changes in the speaker.
 
 **Step 2: Feature Extraction**
 
@@ -62,10 +62,10 @@ The system takes in audio input from various sources, such as microphones or aud
 
 **Step 2: Preprocessing**
 
-Similar to diarization, the audio is cleaned and prepared for analysis. This includes:
+Similar to diarisation, the audio is cleaned and prepared for analysis. This includes:
 
-     - **Noise Reduction:** Enhancing the clarity of speech by removing background sounds.
-     - **Segmentation**: Breaking the audio into manageable chunks, such as words or phrases.
+- **Noise Reduction:** Enhancing the clarity of speech by removing background sounds.
+- **Segmentation**: Breaking the audio into manageable chunks, such as words or phrases.
 
 **Step 3: Feature Extraction**
 
@@ -74,8 +74,8 @@ Features are extracted from the audio to analyse the speech patterns. This inclu
 **Step 4: Decoding**
 
 The extracted features are compared against known patterns in a speech database using machine learning algorithms. This step involves:
-     - **Hidden Markov Models (HMMs):** A statistical model that predicts the likelihood of a sequence of sounds based on past observations.
-     - **Deep Learning:** Neural networks can be trained to recognise complex patterns in speech, improving accuracy.
+- **Hidden Markov Models (HMMs):** A statistical model that predicts the likelihood of a sequence of sounds based on past observations.
+- **Deep Learning:** Neural networks can be trained to recognise complex patterns in speech, improving accuracy.
 
 **Step 5: Output Generation**
 
@@ -100,8 +100,8 @@ By using these technologies, police departments can enhance their investigative 
 - Limitations include challenges with overlapping speech, accents, background noise, and poor audio quality, which can affect the accuracy of both diarisation and recognition.
 
 ## Glossary of Key Terms
- - **Speaker Diarization:** The process of identifying and segmenting different speakers in an audio recording, determining "who spoke when."
+ - **Speaker Diarisation:** The process of identifying and segmenting different speakers in an audio recording, determining "who spoke when."
  - **Speech Recognition:** The technology used to convert spoken words into written text.
  - **Audio Preprocessing:** Techniques such as noise reduction and segmentation to clean and prepare audio data for further analysis.
  - **Feature Extraction:** The process of identifying key patterns in the audio data (such as voice tone or frequency) that can distinguish between speakers.
- - **Clustering:** A method of grouping similar data points (e.g., audio segments) to identify distinct speakers in diarization.
+ - **Clustering:** A method of grouping similar data points (e.g., audio segments) to identify distinct speakers in diarisation.
