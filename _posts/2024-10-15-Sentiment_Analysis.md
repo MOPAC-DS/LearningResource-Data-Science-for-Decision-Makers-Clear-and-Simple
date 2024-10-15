@@ -88,7 +88,7 @@ In addition to simple positive or negative classifications, some tools go furthe
 ## Key Takeaways
 
  - Sentiment refers to the emotions or attitudes expressed in text, which can be positive, negative, or neutral.
- - Sentiment analysis is the process of automatically detecting and classifying emotions in text data, helping organizations understand public opinion.
+ - Sentiment analysis is the process of automatically detecting and classifying emotions in text data, helping organisations understand public opinion.
  - There exist two main approaches to sentiment analysis:
      - Rule-based approach uses pre-defined lists of positive/negative words.
      - Machine learning-based approach uses algorithms trained on labeled data to predict sentiment.
