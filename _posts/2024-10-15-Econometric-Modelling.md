@@ -29,15 +29,13 @@ In crime analysis, econometric models can help identify the key factors driving 
 
 1. **Dependent Variable**
 
-This is the outcome we are trying to explain or predict. For example, the crime rate in a city could be the dependent variable.
-
+     This is the outcome we are trying to explain or predict. For example, the crime rate in a city could be the dependent variable.
 2. **Independent Variables**
 
-These are the factors that may influence the dependent variable. For example, police staffing levels, unemployment rate, or education levels could be independent variables in a model designed to predict crime rates.
-
+     These are the factors that may influence the dependent variable. For example, police staffing levels, unemployment rate, or education levels could be independent variables in a model designed to predict crime rates.
 3. **Regression Analysis**
 
-Regression analysis is a common technique in econometrics used to quantify the relationship between independent and dependent variables. It allows us to understand the magnitude of the effect that independent variables have on the outcome.
+     Regression analysis is a common technique in econometrics used to quantify the relationship between independent and dependent variables. It allows us to understand the magnitude of the effect that independent variables have on the outcome.
 
 For example, a regression model might show that for every additional police officer per 1,000 residents, the crime rate decreases by a certain percentage.
 
