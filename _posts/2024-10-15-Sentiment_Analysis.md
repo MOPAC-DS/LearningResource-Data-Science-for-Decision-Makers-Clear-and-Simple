@@ -1,8 +1,8 @@
 ---
 title: "Sentiment Analysis"
 date: 2024-10-15
-categories: ['Natural Language Processing (NLP)']
-tags: ['Classification', 'NLP', 'Text Analytics']
+categories: ['Natural Language Processing (NLP)', 'Text Classification']
+tags: ['Classification', 'NLP', 'Text Analytics', 'Content Summarisation', ]
 author: <dhammocks>
 description: This post discusses Sentiment Analysis in simple terms using accessible language for all.
 image:
