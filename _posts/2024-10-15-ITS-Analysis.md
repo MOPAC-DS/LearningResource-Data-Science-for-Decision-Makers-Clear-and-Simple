@@ -44,15 +44,19 @@ ITSA is valuable for understanding how interventions impact social phenomena, su
 ## How Does Interrupted Time Series Analysis Work?
 
 1. **Baseline Trend (Before the Intervention)**
+
 The first step in ITSA is to observe the data before the intervention. This is called the baseline trend. It shows how things were progressing without any external influence. For example, if we are measuring crime rates, we look at how crime was changing before a new policy was introduced.
 
 2. **Intervention or Event**
+
 An interruption happens when something changes. This could be the introduction of a new policy, a public awareness campaign, or any significant event that might influence the data. This interruption splits the time series into before and after segments.
 
 3. **Post-Intervention Trend**
+
 After the interruption, we observe the post-intervention trend. We want to see if the data changes after the intervention, either immediately or gradually over time.
 
 4. **Measuring the Impact**
+
 ITSA measures two things:
      - **Level Change:** Did the value of the outcome (e.g., crime rate, sales, etc.) jump up or down immediately after the intervention? This is called the immediate impact.
      - **Slope Change:** Did the long-term trend change after the intervention? For instance, was there a steady decline in crime rates after the policy was introduced? This is known as the sustained impact.
