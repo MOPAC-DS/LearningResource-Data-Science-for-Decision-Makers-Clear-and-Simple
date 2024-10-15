@@ -24,21 +24,22 @@ In the context of police investigations, speaker diarisation can be used to anal
 ### How is Speaker Diarisation Performed?
 Speaker diarisation involves several steps:
 
-1. **Step 1: Audio Preprocessing**
+**Step 1: Audio Preprocessing**
 
 The audio recording is cleaned up to enhance clarity. This may include:
+
      - **Noise Reduction:** Removing background noise to focus on the voices.
      - **Segmentation:** Dividing the audio into smaller segments based on pauses or changes in the speaker.
 
-2. **Step 2: Feature Extraction**
+**Step 2: Feature Extraction**
 
 Key features from the audio are extracted to distinguish between different speakers. These features capture the characteristics of the audio signal and help in identifying unique voice patterns.
 
-3. **Step 3: Clustering**
+**Step 3: Clustering**
 
 The extracted features are grouped together using clustering algorithms, which helps identify segments where the same speaker is talking. 
 
-4. **Step 4: Speaker Labelling**
+**Step 4: Speaker Labelling**
 
 Once segments are clustered, each segment is labeled with the corresponding speaker's identity. If the speakers are known, they can be matched to previously recorded voice profiles.
 
@@ -55,23 +56,29 @@ Speech recognition is the technology that enables computers to understand and in
 ### How Does Speech Recognition Work?
 Speech recognition involves several key steps:
 
-1. **Step 1: Audio Input**
+**Step 1: Audio Input**
+
 The system takes in audio input from various sources, such as microphones or audio recordings. In the context of body-worn video cameras, this would be the audio captured during an interaction.
 
-2. **Step 2: Preprocessing**
+**Step 2: Preprocessing**
+
 Similar to diarization, the audio is cleaned and prepared for analysis. This includes:
+
      - **Noise Reduction:** Enhancing the clarity of speech by removing background sounds.
      - **Segmentation**: Breaking the audio into manageable chunks, such as words or phrases.
 
-3. **Step 3: Feature Extraction**
+**Step 3: Feature Extraction**
+
 Features are extracted from the audio to analyse the speech patterns. This includes visualising the frequencies in the audio signal over time to identify distinct sounds.
 
-4.**Step 4: Decoding**
+**Step 4: Decoding**
+
 The extracted features are compared against known patterns in a speech database using machine learning algorithms. This step involves:
      - **Hidden Markov Models (HMMs):** A statistical model that predicts the likelihood of a sequence of sounds based on past observations.
      - **Deep Learning:** Neural networks can be trained to recognise complex patterns in speech, improving accuracy.
 
-5. **Step 5: Output Generation**
+**Step 5: Output Generation**
+
 The recognised words are then converted into written text. This text can be further analysed or stored for record-keeping.
 
 ### Speech Recognition Limitations
